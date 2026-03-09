@@ -5,8 +5,6 @@
 <p align="center">
   <a href="mailto:golubev21312@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/blac_aqua94"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://hh.ru/applicant/resumes"><img src="https://img.shields.io/badge/hh.ru-E44D26?style=for-the-badge&logo=headhunter&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -64,15 +62,6 @@ Fullstack-разработчик с опытом коммерческой раз
 | 📈 [productivity-tracker](https://github.com/golubev21312-afk/productivity-tracker) | JavaScript, Fullstack | Fullstack-трекер активности: логирование, цели, аналитика |
 
 > 🗂️ Всего в профиле **9 репозиториев** — от учебных задач до проектов production-уровня
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golubev21312-afk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golubev21312-afk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
